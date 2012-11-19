@@ -1,0 +1,29 @@
+<package>
+  <name>moveit_full</name>
+  <version>0.1.0</version>
+  <description>All MoveIt components and plugins</description>
+  <author email="isucan@willowgarage.com">Ioan Sucan</author>
+  <author email="sachinc@willowgarage.com">Sachin Chitta</author>
+
+  <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://moveit.ros.org</url>
+
+  <build_depend>catkin</build_depend> 
+  <build_depend>moveit_ros</build_depend>
+  <build_depend>moveit_planners</build_depend>
+  <build_depend>moveit_setup_assistant</build_depend>
+  <build_depend>moveit_commander</build_depend>
+
+  <run_depend>moveit_ros</run_depend>
+  <run_depend>moveit_planners</run_depend>
+  <run_depend>moveit_setup_assistant</run_depend>
+  <run_depend>moveit_commander</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
