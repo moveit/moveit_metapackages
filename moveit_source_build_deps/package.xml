@@ -10,7 +10,7 @@
 
   <url type="website">http://moveit.ros.org</url>
 
-  <build_depend>catkin</build_depend>
+  <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>actionlib</build_depend>
   <build_depend>assimp</build_depend>
