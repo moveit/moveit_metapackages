@@ -26,7 +26,8 @@
   <build_depend>geometry_msgs</build_depend>
   <build_depend>interactive_markers</build_depend>
   <build_depend>kdl_parser</build_depend>
-  <build_depend>message_filters</build_depend>
+  <build_depend>manipulation_msgs</build_depend>
+  <build_depend>message_filters</build_depend> 
   <build_depend>octomap</build_depend>
   <build_depend>octomap_msgs</build_depend>
   <build_depend>ompl</build_depend>
@@ -41,6 +42,7 @@
   <build_depend>rostime</build_depend>
   <build_depend>rospy</build_depend>
   <build_depend>rviz</build_depend>
+  <build_depend>rqt</build_depend>
   <build_depend>sensor_msgs</build_depend>
   <build_depend>shape_msgs</build_depend> 
   <build_depend>shape_tools</build_depend>
@@ -67,6 +69,7 @@
   <run_depend>geometry_msgs</run_depend>
   <run_depend>interactive_markers</run_depend>
   <run_depend>kdl_parser</run_depend>
+  <run_depend>manipulation_msgs</run_depend>
   <run_depend>message_filters</run_depend>
   <run_depend>octomap</run_depend>
   <run_depend>octomap_msgs</run_depend>
@@ -82,6 +85,7 @@
   <run_depend>rostime</run_depend>
   <run_depend>rospy</run_depend>
   <run_depend>rviz</run_depend>
+  <run_depend>rqt</run_depend>
   <run_depend>sensor_msgs</run_depend>
   <run_depend>shape_msgs</run_depend> 
   <run_depend>shape_tools</run_depend>
