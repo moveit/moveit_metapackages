@@ -11,11 +11,6 @@
 
   <url type="website">http://moveit.ros.org</url>
 
-  <buildtool_depend>catkin</buildtool_depend> 
-
-  <build_depend>moveit_full</build_depend>
-  <build_depend>moveit_pr2</build_depend>
-
   <run_depend>moveit_full</run_depend>
   <run_depend>moveit_pr2</run_depend>
 
