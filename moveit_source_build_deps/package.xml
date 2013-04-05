@@ -43,6 +43,7 @@
   <run_depend>robot_model</run_depend>
   <run_depend>warehouse_ros</run_depend>
   <run_depend>yaml-cpp</run_depend>
+  <run_depend>libglew-dev</run_depend>
 
   <export>
     <metapackage/>
