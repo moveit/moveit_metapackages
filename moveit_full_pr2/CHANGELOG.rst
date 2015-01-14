@@ -5,6 +5,9 @@ Changelog for package moveit_full_pr2
 0.4.2 (2013-07-03)
 ------------------
 
+Forthcoming
+-----------
+
 0.5.0 (2013-07-30)
 ------------------
 * add changelogs
