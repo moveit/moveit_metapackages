@@ -5,6 +5,11 @@ Changelog for package moveit_full
 0.4.2 (2013-07-03)
 ------------------
 
+Forthcoming
+-----------
+* add maintainer so I catch build failures
+* Contributors: Michael Ferguson
+
 0.6.0 (2015-01-14)
 ------------------
 
