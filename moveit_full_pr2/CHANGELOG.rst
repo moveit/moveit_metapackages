@@ -5,8 +5,8 @@ Changelog for package moveit_full_pr2
 0.4.2 (2013-07-03)
 ------------------
 
-Forthcoming
------------
+0.6.1 (2015-01-16)
+------------------
 * add maintainer so I catch build failures
 * Contributors: Michael Ferguson
 
