@@ -2,6 +2,11 @@
 Changelog for package moveit_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [fix] changelog sorted in chronological order.
+* Contributors: Isaac I.Y. Saito
+
 0.6.1 (2015-01-16)
 ------------------
 * add maintainer so I catch build failures
