@@ -2,8 +2,8 @@
 Changelog for package moveit_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.2 (2016-06-24)
+------------------
 * [fix] changelog sorted in chronological order.
 * Contributors: Isaac I.Y. Saito
 
