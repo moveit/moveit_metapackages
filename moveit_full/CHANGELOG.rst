@@ -2,6 +2,11 @@
 Changelog for package moveit_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [improve] Delegate moveit_full to moveit metapackage. (`#8 <https://github.com/ros-planning/moveit_metapackages/issues/8>`_)
+* Contributors: Isaac I.Y. Saito
+
 0.6.2 (2016-06-24)
 ------------------
 * [fix] changelog sorted in chronological order.
